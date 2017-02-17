@@ -42,7 +42,7 @@ public class UserMock implements UserService{
         userList.add(user);
 
         Fixatge fixatge = new Fixatge();
-        fixatge.setId("hipito@hipito");
+        fixatge.setId("hipito@hipitoa");
         fixatge.setDate(new Date());
 
         fixatgeList.add(fixatge);
